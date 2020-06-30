@@ -1,7 +1,7 @@
 # SDL2
 Test project with SDL2
 
-Cours de Matthieu Nebra d'utilisation de la SDL (version 1), nécessite quelques modifications de code pour fonctionner avec la version 2 (version 1 plus disponible sur le site officiel):
+Excellement cours de Matthieu Nebra sur l'utilisation de la SDL (version 1), nécessitant cependant quelques modifications mineures de code pour fonctionner avec la version 2 (version 1 plus disponible sur le site officiel):
 https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/17117-installation-de-la-sdl
 
 Tutoriel avec exemple pour utilisation de la SDL2
