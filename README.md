@@ -7,7 +7,7 @@ https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/17117-ins
 Tutoriel avec exemple pour utilisation de la SDL2
 http://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/codeblocks/index.php
 
-Gestion des évènements dans la DSL: https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/18176-la-gestion-des-evenements
+Gestion des évènements dans la SDL: https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/18176-la-gestion-des-evenements
       -> Liste des touches du clavier dans la section Keysym definitions: https://user.oc-static.com/ftp/mateo21/sdlkeysym.html
  
 TP Mario Sobokan: https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/18709-tp-mario-sokoban
