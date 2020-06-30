@@ -12,5 +12,9 @@ Gestion des évènements dans la SDL: https://openclassrooms.com/fr/courses/1998
  
 TP Mario Sobokan: https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/18709-tp-mario-sokoban
       ->  SDL 1.2 to 2.0 Migration Guide: http://wiki.libsdl.org/MigrationGuide
+      
+       -> Liste des touches du clavier dans la section Keysym definitions: 
+            -> (SDL v1) https://user.oc-static.com/ftp/mateo21/sdlkeysym.html
+            -> (SDL v2) http://wiki.libsdl.org/SDL_ScancodeAndKeycode?highlight=%28SDLK_ESCAPE%29#SDL_Scancode_and_SDL_Keycode
 
 
