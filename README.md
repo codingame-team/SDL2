@@ -6,4 +6,4 @@ https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/17117-ins
 http://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/codeblocks/index.php
 
 Gestion des évènements dans la DSL: https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/18176-la-gestion-des-evenements
-      -> Liste des touches du clavier dans la sectionKeysym definitions: https://user.oc-static.com/ftp/mateo21/sdlkeysym.html
+      -> Liste des touches du clavier dans la section Keysym definitions: https://user.oc-static.com/ftp/mateo21/sdlkeysym.html
